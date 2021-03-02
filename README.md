@@ -3,7 +3,7 @@
 ## About the sample
 This example illustrates how to disable the FilterPopup Scrollbar in WPF DataGrid
 
-By default, [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid)(SfDataGrid) does not provide the direct support to disable the Scrollbar at FilterPopup in [CheckboxFilterControl](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.CheckboxFilterControl.html). You can disable the Scrollbar at FilterPopup by overriding the [CheckboxFilterControl](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.CheckboxFilterControl.html) Template and change the **HorizontalScrollBarVisibility** and **VerticalScrollBarVisibility** property as **Hidden** or **Disabled** in **ScrollViewer** of **PART_ItemsControl** Template in [SfDataGrid](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html). 
+By default, [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid) does not provide the direct support to disable the Scrollbar at FilterPopup in [CheckboxFilterControl](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.CheckboxFilterControl.html). You can disable the Scrollbar at FilterPopup by overriding the [CheckboxFilterControl](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.CheckboxFilterControl.html) Template and change the **HorizontalScrollBarVisibility** and **VerticalScrollBarVisibility** property as **Hidden** or **Disabled** in **ScrollViewer** of **PART_ItemsControl** Template in [SfDataGrid](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html). 
 
 ```XML
 
