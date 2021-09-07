@@ -384,5 +384,7 @@ Take a moment to peruse the [WPF DataGrid - Filtering documentation](https://hel
 
 Please refer this [link](https://www.syncfusion.com/wpf-ui-controls/datagrid) to know about the essential features of WPF DataGrid.
 
+KB article - [How to disable the FilterPopup Scrollbar in WPF DataGrid?](https://www.syncfusion.com/kb/12377/how-to-disable-the-filterpopup-scrollbar-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
